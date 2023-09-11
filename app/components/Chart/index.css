@@ -1,0 +1,18 @@
+.chart-container {
+    width: 460px;
+    height: 600px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background: #ebeeff;
+    margin-left: 20px;
+  }
+  .chart-heading {
+    color: #2d3149;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-left: 24px;
+  }
